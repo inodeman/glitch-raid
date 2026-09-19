@@ -1,27 +1,27 @@
 # GLITCH RAID
 
-Arcade shorts in **YouTube 16:9** and **TikTok 9:16**.
+Cortos arcade en **YouTube 16:9** y **TikTok 9:16**, con soundtrack.
 
-## THE PIT — 0:30 fight
+## GLITCH RAID — 3:00
 
-Cryomancer vs spear specter. Gong, crowd, spear, ice shatter, announcer.
+Cuarenta y cinco segundos dentro de un asalto píxel estilo Contra. El soldado rompe la pantalla y entra a 3D fotorrealista.
 
-**v1.2 includes the fight soundtrack** (original arcade mix — homage, not licensed samples).
+**v1.3 incluye el soundtrack** (chiptune de gabinete → pads cinematográficos, disparos, explosiones, glitch). Mezcla original, no samples con licencia.
 
-| Cut | Aspect | File |
+| Corte | Formato | Archivo |
+|-----|--------|------|
+| YouTube | 16:9 · 1280×720 | [GLITCH-RAID-youtube-16x9.mp4](https://github.com/inodeman/glitch-raid/releases/download/v1.3/GLITCH-RAID-youtube-16x9.mp4) |
+| TikTok | 9:16 · 720×1280 | [GLITCH-RAID-tiktok-9x16.mp4](https://github.com/inodeman/glitch-raid/releases/download/v1.3/GLITCH-RAID-tiktok-9x16.mp4) |
+
+![GLITCH RAID](stills/youtube-cover.jpg)
+
+## THE PIT — 0:30
+
+Criomante vs espectro de lanza. Gong, público, lanza, hielo.
+
+| Corte | Formato | Archivo |
 |-----|--------|------|
 | YouTube | 16:9 · 1280×720 | [PIT-youtube-16x9.mp4](https://github.com/inodeman/glitch-raid/releases/download/v1.2/PIT-youtube-16x9.mp4) |
 | TikTok | 9:16 · 720×1280 | [PIT-tiktok-9x16.mp4](https://github.com/inodeman/glitch-raid/releases/download/v1.2/PIT-tiktok-9x16.mp4) |
 
 ![THE PIT](stills/pit-youtube-cover.jpg)
-
-## GLITCH RAID — 3:00 short
-
-Forty-five seconds inside a Contra-style pixel raid — then the soldier punches through the screen into photoreal 3D.
-
-| Cut | Aspect | File |
-|-----|--------|------|
-| YouTube | 16:9 · 1280×720 | [GLITCH-RAID-youtube-16x9.mp4](https://github.com/inodeman/glitch-raid/releases/download/v1.0/GLITCH-RAID-youtube-16x9.mp4) |
-| TikTok | 9:16 · 720×1280 | [GLITCH-RAID-tiktok-9x16.mp4](https://github.com/inodeman/glitch-raid/releases/download/v1.0/GLITCH-RAID-tiktok-9x16.mp4) |
-
-![GLITCH RAID](stills/youtube-cover.jpg)
